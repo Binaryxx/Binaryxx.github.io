@@ -1,7 +1,6 @@
-theme: minima  
 layout: page  
 title: "Contact Page"  
-permalink: /contact/  
+permalink: /contact  
 
 ### Test Contact Page  
 Test sentence.
