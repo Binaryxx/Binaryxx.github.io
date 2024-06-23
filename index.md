@@ -1,12 +1,3 @@
-<table>
-  <tr>
-    <th>
-      Test Title
-    </th>
-  </tr>
-  <tr>
-    <td>
-      Test Record
-    </td>
-  </tr>
-</table>
+# Homepage  
+
+Welcome to Binaryxx Sune's Website!
