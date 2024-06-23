@@ -1,3 +1,4 @@
+theme: minima
 layout: page  
 title: "Contact Page"  
 permalink: /contact/  
