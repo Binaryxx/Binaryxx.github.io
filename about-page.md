@@ -1,5 +1,6 @@
 layout: page  
-title: "About Page"  
-permalink: /about  
-### Test About Page  
+title: "Contact Page"  
+permalink: /contact/  
+
+### Test Contact Page  
 Test sentence.
