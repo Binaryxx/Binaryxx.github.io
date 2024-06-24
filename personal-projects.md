@@ -11,32 +11,32 @@ Below are projects that I have worked on in my spare time. Most, if not all, wil
 ### Audio   
    
 **Practice #1** 
-<audio controls controls>
-  <source src="/practice5.wav" type="audio/wav">
+<audio controls>
+  <source src="practice5.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br><br>
 
 **Practice #2**  
-<audio controls controls>
-  <source src="/practice5.wav" type="audio/wav">
+<audio controls>
+  <source src="practice5.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br><br>  
 
 **Practice #3**  
-<audio controls controls>
-  <source src="/practice5.wav" type="audio/wav">
+<audio controls>
+  <source src="practice5.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br><br>
 
 **Practice #4** & **Practice #5**  
-<audio controls controls>
-  <source src="/practice5.wav" type="audio/wav">
+<audio controls>
+  <source src="practice5.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br><br>  
 
 **Prototype #1**  
-<audio controls controls>
-  <source src="/practice5.wav" type="audio/wav">
+<audio controls>
+  <source src="practice5.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br><br>  
 
