@@ -10,7 +10,7 @@ Below are projects that I have worked on in my spare time. Most, if not all, wil
 
 ### Audio   
    
-**Practice #1** 
+**Practice #1**  
 First music clip to produce. Focused on using simple chords from the C major scale and kept rhythm fairly simple. Learned how to give space to the lead and how to use notes that either resolve or create tension.   
 Only made up of 2 separate tracks. One track for the melody (piano) and another for the harmony (strings).  
 This music clip focuses on a more upbeat and happy mood, supposedly for an upbeat beach town background track.  
