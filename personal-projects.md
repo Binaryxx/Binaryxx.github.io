@@ -104,8 +104,3 @@ Learned how to address the issue of tunneling and how to use Godot in general.
   <source src="personal-projects-assets/pongx-demo.mov" type="video/mp4">
 Your browser does not support the video tag.
 </video><br><br>
-
-<hr>
-
-### Game Design  
-
