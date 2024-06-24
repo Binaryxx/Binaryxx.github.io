@@ -16,7 +16,7 @@ Only made up of 2 separate tracks. One track for the melody (piano) and another 
 This music clip focuses on a more upbeat and happy mood, supposedly for an upbeat beach town background track.  
 
 <audio controls>
-  <source src="practice1.wav" type="audio/wav">
+  <source src="personal-projects-assets/practice-1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br><br>
 
@@ -26,7 +26,7 @@ Used 4 tracks. Plucked violin notes for the lead. For the harmony, the piano cov
 This music clip takes a motif from Practice 1 and uses it to transition to a slower and calm nighttime walk in town soundtrack.  
 
 <audio controls>
-  <source src="practice2.wav" type="audio/wav">
+  <source src="personal-projects-assets/practice-2.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br><br>  
 
@@ -35,7 +35,7 @@ Practice 4 includes Practice 3 and creating a slower and calmer version. Practic
 This music clip has a western twang to it, which I attribute to the guitar used. Because of this, the imagery for this clip is traveling in a wasteland desert and encountering enemy bandits.  
 
 <audio controls>
-  <source src="practice4.wav" type="audio/wav">
+  <source src="personal-projects-assets/practice-4.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br><br>
 
@@ -44,7 +44,7 @@ No particular concept to focus in Practice 5. I wanted to use the horns and 808s
 This music clip is supposed to be more city like and tense. This is because I wanted to rely heavily on the low end such as the drums, bass, and 808s which is reminiscence of R&B.
 
 <audio controls>
-  <source src="practice5.wav" type="audio/wav">
+  <source src="personal-projects-assets/practice-5.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br><br>  
 
@@ -54,7 +54,7 @@ I wanted to focus on nice standalone melodies and harmonies that can stand by th
 I chose G Major to create a nice peaceful tone with a nice and calm 80 BPM. The song sounds very different from the inspiration sources, but is able to convey the level of peace and calm.
 
 <audio controls>
-  <source src="prototype1.wav" type="audio/wav">
+  <source src="personal-projects-assets/prototype-1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br><br>  
 
@@ -65,7 +65,7 @@ Your browser does not support the audio element.
 Followed the walkthrough tutorial of creating a donut render from Blender Guru. Used to familiarize myself with the software and its features.  
 
 <video width="320" height="240" controls>
-  <source src="donut.mp4" type="video/mp4">
+  <source src="personal-projects-assets/donut.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video><br><br>
 
@@ -74,7 +74,7 @@ Your browser does not support the video tag.
 3D Modeled a mascot cat and then animated a walk cycle. Learned add texture maps, rig, and animate a 3d model.    
 
 <video width="320" height="240" controls>
-  <source src="binkywalk.mkv" type="video/mp4">
+  <source src="personal-projects-assets/binky-walk.mkv" type="video/mp4">
 Your browser does not support the video tag.
 </video><br><br>
 
@@ -84,12 +84,12 @@ Your browser does not support the video tag.
 Also rendered the same sequence with effects such as pixelation and cel shading.   
 
 <video width="320" height="240" controls>
-  <source src="binkyemote.webm" type="video/webm">
+  <source src="personal-projects-assets/binky-emote.webm" type="video/webm">
 Your browser does not support the video tag.
 </video><br><br>
 
 <video width="320" height="240" controls>
-  <source src="pixelbinkyemote.mkv" type="video/mp4">
+  <source src="personal-projects-assets/pixel-binky-emote.mkv" type="video/mp4">
 Your browser does not support the video tag.
 </video><br><br>
 
@@ -101,7 +101,7 @@ Coded a Pong clone with additional features such as the ability to manipulate th
 Learned how to address the issue of tunneling and how to use Godot in general.  
 
 <video width="320" height="240" controls>
-  <source src="pongx.mkv" type="video/mp4">
+  <source src="personal-projects-assets/pongx-demo.mov" type="video/mp4">
 Your browser does not support the video tag.
 </video><br><br>
 
