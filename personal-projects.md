@@ -65,15 +65,31 @@ Your browser does not support the audio element.
 Followed the walkthrough tutorial of creating a donut render from Blender Guru. Used to familiarize myself with the software and its features.  
 
 <video width="320" height="240" controls>
+  <source src="donut.webm" type="video/webm">
+Your browser does not support the video tag.
+</video><br><br>
+
+
+**Binky the Cat Walk Cycle**  
+3D Modeled a mascot cat and then animated a walk cycle. Learned add texture maps, rig, and animate a 3d model.    
+
+<video width="320" height="240" controls>
   <source src="binkyemote.webm" type="video/webm">
 Your browser does not support the video tag.
 </video><br><br>
 
+
 **Binky the Cat Emote Sequence**  
-3D Modeled a mascot cat and then animated a sequence of movements. The movements involve a heel click jump, chest pound, and a point towards the camera. Learned add texture maps, rig, and animate a 3d model.    
+3D Modeled a mascot cat and then animated a sequence of movements. The movements involve a heel click jump, chest pound, and a point towards the camera. Learned add texture maps, rig, and animate a 3d model. 
+Also rendered the same sequence with effects such as pixelation and cel shading.   
 
 <video width="320" height="240" controls>
-  <source src="binkyemote.webm" type="video/webm">
+  <source src="binkywalk.webm" type="video/webm">
+Your browser does not support the video tag.
+</video><br><br>
+
+<video width="320" height="240" controls>
+  <source src="binkywalk.webm" type="video/webm">
 Your browser does not support the video tag.
 </video><br><br>
 
