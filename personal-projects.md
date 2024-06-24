@@ -65,7 +65,7 @@ Your browser does not support the audio element.
 Followed the walkthrough tutorial of creating a donut render from Blender Guru. Used to familiarize myself with the software and its features.  
 
 <video width="320" height="240" controls>
-  <source src="donut.webm" type="video/webm">
+  <source src="donut.mkv" type="video/mp4">
 Your browser does not support the video tag.
 </video><br><br>
 
@@ -74,7 +74,7 @@ Your browser does not support the video tag.
 3D Modeled a mascot cat and then animated a walk cycle. Learned add texture maps, rig, and animate a 3d model.    
 
 <video width="320" height="240" controls>
-  <source src="binkyemote.webm" type="video/webm">
+  <source src="binkywalk.mkv" type="video/mp4">
 Your browser does not support the video tag.
 </video><br><br>
 
@@ -84,12 +84,12 @@ Your browser does not support the video tag.
 Also rendered the same sequence with effects such as pixelation and cel shading.   
 
 <video width="320" height="240" controls>
-  <source src="binkywalk.webm" type="video/webm">
+  <source src="binkyemote.mkv" type="video/mp4">
 Your browser does not support the video tag.
 </video><br><br>
 
 <video width="320" height="240" controls>
-  <source src="binkywalk.webm" type="video/webm">
+  <source src="pixelbinkyemote.mkv" type="video/mp4">
 Your browser does not support the video tag.
 </video><br><br>
 
@@ -101,7 +101,7 @@ Coded a Pong clone with additional features such as the ability to manipulate th
 Learned how to address the issue of tunneling and how to use Godot in general.  
 
 <video width="320" height="240" controls>
-  <source src="binkyemote.webm" type="video/webm">
+  <source src="pongx.mkv" type="video/mp4">
 Your browser does not support the video tag.
 </video><br><br>
 
