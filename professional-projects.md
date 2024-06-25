@@ -10,8 +10,7 @@ Below are projects which relate to VBA, Python, SQL, and Tableau. I categorize t
 
 ### VBA  
 To use and inspect the macros, please download the worksheet.
-<iframe src="https://1drv.ms/x/c/4e1a09861c3af1e4/EW8QJ42WORBAmiXwcDzBI0oBqdNMvfg88MM50R9ZUB4dKg?e=JrQeIz" title="Excel Worksheet">
-</iframe><br><br>
+<iframe width="320" height="240" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/4e1a09861c3af1e4/IQNvECeNljkQQJol8HA8wSNKAZd3te-vzIW1JfrWJ_Ioaqo?wdAllowInteractivity=False&ActiveCell='Form%20Completion%20II'!A1&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe><br><br>
 
 **Question Auto Fill Macro**  
 Populated and formatted a sheet with a character’s info and stats based on the inputted parameters in the user form.  
