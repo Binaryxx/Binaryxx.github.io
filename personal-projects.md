@@ -54,7 +54,7 @@ I wanted to focus on nice standalone melodies and harmonies that can stand on th
 I chose G Major to create a nice peaceful tone with a nice and calm 80 BPM. The song sounds very different from the inspiration sources but still conveys a level of peace and calm.
 
 <audio controls>
-  <source src="personal-projects-assets/prototype-1.wav" type="audio/wav">
+  <source src="personal-projects-assets/prototype-1.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio><br><br>  
 
