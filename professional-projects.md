@@ -10,13 +10,13 @@ Below are projects which relate to VBA, Python, SQL, and Tableau. I categorize t
 
 ### VBA  
 To use and inspect the macros, please download the worksheet.
-<iframe src="https://1drv.ms/x/c/4e1a09861c3af1e4/EW8QJ42WORBAmiXwcDzBI0oBqdNMvfg88MM50R9ZUB4dKg?e=JrQeIz" >
+<iframe src="https://1drv.ms/x/c/4e1a09861c3af1e4/EW8QJ42WORBAmiXwcDzBI0oBqdNMvfg88MM50R9ZUB4dKg?e=JrQeIz">
 </iframe><br><br>
 
 **Question Auto Fill Macro**  
 Populated and formatted a sheet with a character’s info and stats based on the inputted parameters in the user form.  
 <video width="320" height="240" controls>
-  <source src="auto-fill-demo.mp4" type="video/mp4">
+  <source src="professional-projects-assets/auto-fill-demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video><br><br>
 
@@ -24,7 +24,7 @@ Populated and formatted a sheet with a character’s info and stats based on the
 Automatically answered common questions, such as name and current date, regardless of its location in the selection.  
 
 <video width="320" height="240" controls>
-  <source src="character-creation-demo.mp4" type="video/mp4">
+  <source src="professional-projects-assets/character-creation-demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video><br><br>
 
