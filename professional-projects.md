@@ -4,7 +4,9 @@ title: "Professional Projects"
 permalink: /professional-projects  
 ---
 
-Below are projects which relate to VBA, Python, SQL, and Tableau. I categorize these as prossional projects since they use commonly used technical skills in analytics. In addition, I believe that they also teach universal and transferrable skills, such as the ability to learn in an unguided and independent setting and the ability to leverage available resources to complete a task.  
+Below are projects that relate to VBA, Python, SQL, and Tableau. I categorize these as professional projects since they use commonly used technical skills in analytics. In addition, I believe that they also teach universal and transferrable skills, such as the ability to learn in an unguided and independent setting and the ability to leverage available resources to complete a task.  
+
+*TIP: Fullscreen/download files for easier readability if necessary. Improvements to UX is in progress. Sorry for the inconvenience!*
 
 <hr>
 
@@ -54,7 +56,7 @@ Automatically answered common questions, such as name and current date, regardle
 
 ### SQL  
 **HackerRank: The Report** 
-Write a query to generate a report containing three columns: Name, Grade and Mark.  
+Wrote a query to generate a report containing three columns: Name, Grade and Mark.  
 https://www.hackerrank.com/challenges/the-report/problem
 
 <pre>
@@ -81,7 +83,7 @@ ORDER BY student_grade DESC,
 </pre>
 
 **HackerRank: Top Competitors**  
-Query a list of top-scoring hackers.  
+Queried a list of top-scoring hackers.  
 https://www.hackerrank.com/challenges/full-score/problem
 
 <pre>
@@ -106,6 +108,7 @@ ORDER BY challenge_count DESC, Hackers.hacker_id ASC
 
 ### Tableau  
 **Iris Dataset Exploratory Data Analysis**  
+**NOTE: Unfortunately, my trial for Tableau has expired and I did not export the visualization; I will be remaking it with Tableau Public as soon as possible.*  
 Visualized the distribution of classes (Setosa, Versicolour, and Virginica) based on all possible combinations of its attributes (sepal length, sepal width, petal length, petal width).
 
 <embed src="professional-projects-assets/iris.pdf" type="application/pdf" width = 640 height = 480><br><br>
