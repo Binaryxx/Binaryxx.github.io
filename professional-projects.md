@@ -15,6 +15,7 @@ To use and inspect the macros, please download the worksheet.
 
 **Question Auto Fill Macro**  
 Populated and formatted a sheet with a character’s info and stats based on the inputted parameters in the user form.  
+
 <video width="320" height="240" controls>
   <source src="professional-projects-assets/auto-fill-demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -44,7 +45,7 @@ Automatically answered common questions, such as name and current date, regardle
 
 <embed src="professional-projects-assets/valorant-slides.pdf" type="application/pdf"><br><br>
 
-**Winning the Space Race through Data Science**  
+**IBM Data Science Professional Capstone Project: Winning the Space Race through Data Science**  
 * Employed classification algorithms, such as KNN and SVM, to predict if rocket engines will be successfully retrieved and reused after their launch, determining the company’s ability to offer competitive contracts through cost savings
 * Performed all the tasks found in a data science project’s life cycle, from data collection to communication of findings
 
@@ -53,8 +54,10 @@ Automatically answered common questions, such as name and current date, regardle
 <hr>
 
 ### SQL  
-**Title**  
-Descrition
+**HackerRank: The Report** 
+Write a query to generate a report containing three columns: Name, Grade and Mark.  
+https://www.hackerrank.com/challenges/the-report/problem
+
 <pre>
   <code>
 SELECT  
@@ -78,13 +81,37 @@ ORDER BY student_grade DESC,
   </code>
 </pre>
 
+**HackerRank: Top Competitors**  
+Query a list of top-scoring hackers.  
+https://www.hackerrank.com/challenges/full-score/problem
+
+<pre>
+  <code>
+SELECT Hackers.hacker_id, Hackers.name  
+FROM (
+    SELECT Submissions.hacker_id as hacker_id, COUNT(Submissions.submission_id) as challenge_count
+    FROM Submissions
+    INNER JOIN Challenges ON Challenges.challenge_id = Submissions.challenge_id
+    INNER JOIN Difficulty ON Difficulty.difficulty_level = Challenges.difficulty_level
+    WHERE Difficulty.score = Submissions.score
+    GROUP BY Submissions.hacker_id
+    ) AS Perfect
+INNER JOIN Hackers ON Hackers.hacker_id = Perfect.hacker_id
+WHERE challenge_count > 1
+ORDER BY challenge_count DESC, Hackers.hacker_id ASC
+;
+  </code>
+</pre>
+
 <hr>
 
 ### Tableau  
-**Title**  
-Descrition
-<embed src="file.pdf" type="application/pdf"><br><br>
+**Iris Dataset Exploratory Data Analysis**  
+Visualized the distribution of classes (Setosa, Versicolour, and Virginica) based on all possible combinations of its attributes (sepal length, sepal width, petal length, petal width).
+
+<embed src="professional-projects-assets/iris.pdf" type="application/pdf"><br><br>
   
-**Title**  
-Descrition
-<embed src="file.pdf" type="application/pdf"><br><br>
+**Kickstarter Project Success Predictor**  
+Created commonly used visualizations, such as bar graphs, pie charts, and map-based plots to support the presentation.
+
+<embed src="professional-projects-assets/kickstarter.pdf" type="application/pdf"><br><br>
