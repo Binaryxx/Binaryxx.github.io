@@ -35,20 +35,20 @@ Automatically answered common questions, such as name and current date, regardle
 * Visualized the distribution of 750k players’ ranks based on web scraped data to provide an accurate benchmark
 * Leveraged multiprocessing for an 80% runtime reduction to allow for the implementation of a player inactivity check
 
-<embed src="professional-projects-assets/sf6-slides.pdf" type="application/pdf" width = 640 height = 480><br><br>
+<embed src="professional-projects-assets/sf6-slides.pdf" type="application/pdf" width = 960 height = 720><br><br>
 
 **Valorant Meta Analysis Series**  
 * Built an interactive dashboard to reveal the most popular and successful characters based on the map and skill level
 * Evaluated whether performance statistics from past matches, such as accuracy, can be used to predict a player’s rank
 * Gathered, stored, and wrangled data requested from a REST API to overcome the limited match data provided
 
-<embed src="professional-projects-assets/valorant-slides.pdf" type="application/pdf" width = 640 height = 480><br><br>
+<embed src="professional-projects-assets/valorant-slides.pdf" type="application/pdf" width = 960 height = 720><br><br>
 
 **IBM Data Science Professional Capstone Project: Winning the Space Race through Data Science**  
 * Employed classification algorithms, such as KNN and SVM, to predict if rocket engines will be successfully retrieved and reused after their launch, determining the company’s ability to offer competitive contracts through cost savings
 * Performed all the tasks found in a data science project’s life cycle, from data collection to communication of findings
 
-<embed src="professional-projects-assets/capstone-project.pdf" type="application/pdf" width = 640 height = 480><br><br>
+<embed src="professional-projects-assets/capstone-project.pdf" type="application/pdf" width = 960 height = 720><br><br>
 
 <hr>
 
@@ -108,9 +108,9 @@ ORDER BY challenge_count DESC, Hackers.hacker_id ASC
 **Iris Dataset Exploratory Data Analysis**  
 Visualized the distribution of classes (Setosa, Versicolour, and Virginica) based on all possible combinations of its attributes (sepal length, sepal width, petal length, petal width).
 
-<embed src="professional-projects-assets/iris.pdf" type="application/pdf" width = 640 height = 480><br><br>
+<embed src="professional-projects-assets/iris.pdf" type="application/pdf" width = 960 height = 720><br><br>
   
 **Kickstarter Project Success Predictor**  
 Created commonly used visualizations, such as bar graphs, pie charts, and map-based plots to support the presentation.
 
-<embed src="professional-projects-assets/kickstarter.pdf" type="application/pdf" width = 640 height = 480><br><br>
+<embed src="professional-projects-assets/kickstarter.pdf" type="application/pdf" width = 960 height = 720><br><br>
