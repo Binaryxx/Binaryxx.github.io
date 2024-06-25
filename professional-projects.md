@@ -31,17 +31,25 @@ Automatically answered common questions, such as name and current date, regardle
 <hr>
 
 ### Python  
-**Title**  
-Descrition
-<embed src="file.pdf" type="application/pdf"><br><br>
+**Street Fighter 6 Rank Distribution Explorer**  
+* Visualized the distribution of 750k players’ ranks based on web scraped data to provide an accurate benchmark
+* Leveraged multiprocessing for an 80% runtime reduction to allow for the implementation of a player inactivity check
 
-**Title**  
-Descrition
-<embed src="file.pdf" type="application/pdf"><br><br>
+<embed src="professional-projects-assets/sf6-slides.pdff" type="application/pdf"><br><br>
 
-**Title**  
-Descrition
-<embed src="file.pdf" type="application/pdf"><br><br>
+**Valorant Meta Analysis Series**  
+* Built an interactive dashboard to reveal the most popular and successful characters based on the map and skill level
+* Evaluated whether performance statistics from past matches, such as accuracy, can be used to predict a player’s rank
+* Gathered, stored, and wrangled data requested from a REST API to overcome the limited match data provided
+
+<embed src="professional-projects-assets/valorant-slides.pdf" type="application/pdf"><br><br>
+
+**Winning the Space Race through Data Science**  
+* Employed classification algorithms, such as KNN and SVM, to predict if rocket engines will be successfully retrieved and reused after their launch, determining the company’s ability to offer competitive contracts through cost savings
+* Performed all the tasks found in a data science project’s life cycle, from data collection to communication of findings
+
+<embed src="professional-projects-assets/capstone-project.pdf" type="application/pdf"><br><br>
+
 <hr>
 
 ### SQL  
