@@ -55,7 +55,7 @@ Automatically answered common questions, such as name and current date, regardle
 <hr>
 
 ### SQL  
-**HackerRank: The Report** 
+**HackerRank: The Report**  
 Wrote a query to generate a report containing three columns: Name, Grade and Mark.  
 https://www.hackerrank.com/challenges/the-report/problem
 
