@@ -16,7 +16,7 @@ Only made up of 2 separate tracks. One track for the melody (piano) and another 
 This music clip focuses on a more upbeat and happy mood, supposedly for an upbeat beach town background track.  
 
 <audio controls>
-  <source src="personal-projects-assets/practice-1.wav" type="audio/wav">
+  <source src="personal-projects-assets/practice-1.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio><br><br>
 
@@ -26,7 +26,7 @@ Used 4 tracks. Plucked violin notes for the lead. For the harmony, the piano cov
 This music clip takes a motif from Practice 1 and uses it to transition to a slower and calm nighttime walk-in-town soundtrack.  
 
 <audio controls>
-  <source src="personal-projects-assets/practice-2.wav" type="audio/wav">
+  <source src="personal-projects-assets/practice-2.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio><br><br>  
 
@@ -35,7 +35,7 @@ Practice 4 includes Practice 3 and creating a slower and calmer version. Practic
 This music clip has a western twang to it, which I attribute to the guitar used. Because of this, the imagery for this clip is traveling in a wasteland desert and encountering enemy bandits.  
 
 <audio controls>
-  <source src="personal-projects-assets/practice-4.wav" type="audio/wav">
+  <source src="personal-projects-assets/practice-4.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio><br><br>
 
@@ -44,7 +44,7 @@ No particular concept to focus on in Practice 5. I wanted to use the horns and 8
 This music clip is supposed to be more city-like and tense. This is because I wanted to rely heavily on the low end such as the drums, bass, and 808s which reminded me of typical rap and R&B genres, which then reminded me of a modern and urban setting.
 
 <audio controls>
-  <source src="personal-projects-assets/practice-5.wav" type="audio/wav">
+  <source src="personal-projects-assets/practice-5.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio><br><br>  
 
@@ -69,26 +69,32 @@ Followed the walkthrough tutorial for creating a donut render from Blender Guru.
 Your browser does not support the video tag.
 </video><br><br>
 
+**Zazu Emote**  
+Follow up practice model based on instagram cat account zazubabyman. Reinforce muscle memory on common processes such as creating faces and vertices. Also good practice for low poly models.  
+
+<video width="320" height="240" controls>
+  <source src="personal-projects-assets/zazu-emote.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video><br><br>
 
 **Binky the Cat Walk Cycle**  
 3D Modeled a mascot cat and then animated a walk cycle. Learned to add texture maps, rig, and animate a 3d model. 
 
 <video width="320" height="240" controls>
-  <source src="personal-projects-assets/binky-walk.mkv" type="video/mp4">
+  <source src="personal-projects-assets/binky-walk.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video><br><br>
-
 
 **Binky the Cat Emote Sequence**  
 3D Modeled a mascot cat and then animated a sequence of movements. The movements involve a heel click jump, chest pound, and a point towards the camera. Also rendered the same sequence with effects such as pixelation and cel shading.    
 
 <video width="320" height="240" controls>
-  <source src="personal-projects-assets/binky-emote.webm" type="video/webm">
+  <source src="personal-projects-assets/binky-emote.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video><br><br>
 
 <video width="320" height="240" controls>
-  <source src="personal-projects-assets/pixel-binky-emote.mkv" type="video/mp4">
+  <source src="personal-projects-assets/pixel-binky-emote.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video><br><br>
 
@@ -100,6 +106,6 @@ Coded a Pong clone with additional features such as the ability to manipulate th
 Learned how to address the issue of tunneling and how to use Godot in general.  
 
 <video width="320" height="240" controls>
-  <source src="personal-projects-assets/pongx-demo.mov" type="video/mp4">
+  <source src="personal-projects-assets/pongx-demo.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video><br><br>
