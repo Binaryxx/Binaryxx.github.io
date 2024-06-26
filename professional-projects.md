@@ -103,17 +103,3 @@ ORDER BY challenge_count DESC, Hackers.hacker_id ASC
 ;
   </code>
 </pre>
-
-<hr>
-
-### Tableau  
-**Iris Dataset Exploratory Data Analysis**  
-**NOTE: Unfortunately, my trial for Tableau has expired and I did not export the visualization; I will be remaking it with Tableau Public as soon as possible.*  
-Visualized the distribution of classes (Setosa, Versicolour, and Virginica) based on all possible combinations of its attributes (sepal length, sepal width, petal length, petal width).
-
-<embed src="professional-projects-assets/iris.pdf" type="application/pdf" width = 640 height = 480><br><br>
-  
-**Kickstarter Project Success Predictor**  
-Created commonly used visualizations, such as bar graphs, pie charts, and map-based plots to support the presentation.
-
-<embed src="professional-projects-assets/kickstarter.pdf" type="application/pdf" width = 640 height = 480><br><br>
