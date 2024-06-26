@@ -57,8 +57,7 @@ Automatically answered common questions, such as name and current date, regardle
 ### SQL  
 **HackerRank: The Report**  
 Wrote a query to generate a report containing three columns: Name, Grade and Mark.  
-https://www.hackerrank.com/challenges/the-report/problem
-
+[https://www.hackerrank.com/challenges/the-report/problem](https://www.hackerrank.com/challenges/full-score/problem)
 <pre>
   <code>
 SELECT  
@@ -84,7 +83,7 @@ ORDER BY student_grade DESC,
 
 **HackerRank: Top Competitors**  
 Queried a list of top-scoring hackers.  
-https://www.hackerrank.com/challenges/full-score/problem
+[https://www.hackerrank.com/challenges/full-score/problem](https://www.hackerrank.com/challenges/full-score/problem)
 
 <pre>
   <code>
