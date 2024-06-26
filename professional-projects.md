@@ -19,7 +19,7 @@ Populated and formatted a sheet with a character’s info and stats based on the
 
 <video width="320" height="240" controls>
   <source src="professional-projects-assets/auto-fill-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+Your browser does not support the video tag.
 </video><br><br>
 
 **Character Creation User Form**  
@@ -27,7 +27,7 @@ Automatically answered common questions, such as name and current date, regardle
 
 <video width="320" height="240" controls>
   <source src="professional-projects-assets/character-creation-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+Your browser does not support the video tag.
 </video><br><br>
 
 <hr>
