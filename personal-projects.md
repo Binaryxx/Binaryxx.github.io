@@ -9,7 +9,9 @@ Below are projects that I have worked on in my spare time. Most, if not all, wil
 <hr>
 
 ### Audio   
-   
+
+*NOTE: None of the music is mixed for mono. The only one that is mixed (as in tracks have adjusting volume throughout the song and are panned) is Prototype #1, and it sounds awful in mono. I believe it has something to do with the amount of reverb I use not translating well in mono. I don't plan on mixing for mono since I expect only people with stereo to listen to it.*
+
 **Practice #1**  
 First music clip to produce. Focused on using simple chords from the C major scale and kept rhythm fairly simple. Learned how to give space to the lead and how to use notes that either resolve or create tension.   
 Only made up of 2 separate tracks. One track for the melody (piano) and another for the harmony (strings).  
