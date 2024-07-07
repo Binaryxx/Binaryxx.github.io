@@ -1,6 +1,4 @@
 ---
-layout: page  
-title: "Professional Projects"  
 permalink: /professional-projects  
 ---
 
