@@ -13,19 +13,18 @@ permalink: /professional-projects
 </head>
 
 <body>
-  Below are projects that relate to VBA, Python, SQL, and Tableau. I categorize these as professional projects since they use commonly used technical skills in analytics. In addition, I believe that they also teach universal and transferrable skills, such as the ability to learn in an unguided and independent setting and the ability to leverage available resources to complete a task.  
-  
+  <p>
+    Below are projects that relate to VBA, Python, SQL, and Tableau. I categorize these as professional projects since they use commonly used technical skills in analytics. In addition, I believe that they also teach universal and transferrable skills, such as the ability to learn in an unguided and independent setting and the ability to leverage available resources to complete a task.  
   *TIP: Fullscreen/download files for easier readability if necessary. Usually found at the bottom of the media*
-  
-  <hr>
+  </p>
   
   <ul>
     <li>
-      <input type="radio" name="accordion" id="first">
+      <input type="radio" name="accordion" id="first" checked>
       <label for="first">VBA</label>
       <div class="content">
         <p>  
-          
+      
           To use and inspect the macros, please download the worksheet.
           <iframe allowfullscreen width=800 height=600 frameborder="0" scrolling="no" src="https://1drv.ms/x/c/4e1a09861c3af1e4/IQNvECeNljkQQJol8HA8wSNKAZd3te-vzIW1JfrWJ_Ioaqo?  wdAllowInteractivity=False&ActiveCell='Form%20Completion%20II'!A1&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True">
           </iframe><br><br>
