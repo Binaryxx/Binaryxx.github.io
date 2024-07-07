@@ -108,32 +108,23 @@ ORDER BY challenge_count DESC, Hackers.hacker_id ASC
 ### SQL
 **Iris Data Set EDA**  
 Created a matrix scatterplot to provide an overall overview of the iris data set and any relationship between its features and the species it belongs to. A dashboard is also made for each feature to provide a more detailed summary of the distribution of species per feature. The original scatterplots which compared 2 different features and the resulting species is also included for the most detailed view of the data.  
+TIP: View on Tableau Public for a fitted desktop view since the dimensions for the embedded links are constrained for browsing purposes.
 
 *Multivariate Analysis of the Iris Data Set*
-<iframe width=640 height=480 src ="https://public.tableau.com/views/MultivariateAnalysisoftheIrisDataSet/MainDash?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link"></iframe><br>  
+<iframe width=640 height=480 src ="https://public.tableau.com/views/MultivariateAnalysisoftheIrisDataSet/MainDash?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe><br>  
 
 *Distribution of Iris Species Based on Petal Length*
-<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonPetalLength/PetalLength?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link"></iframe><br>  
+<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonPetalLength/PetalLength?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe><br>  
 
 *Distribution of Iris Species Based on Sepal Length*
-<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonSepalLength/SepalLength?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link"></iframe><br>  
+<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonSepalLength/SepalLength?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe><br>  
 
 *Distribution of Iris Species Based on Sepal Width*
-<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonSepalWidth/SepalWidth?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link"></iframe><br>  
+<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonSepalWidth/SepalWidth?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe><br>  
 
 *Distribution of Iris Species Based on Petal Width*
-<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonPetalWidth/PetalWidth?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link"></iframe><br>  
+<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonPetalWidth/PetalWidth?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe><br>  
 
 *Distribution of Iris Species Based on Different Features*  
-NOTE: Please ensure that the "Show Sheets" option is selected in the Settings to be able to access the different sheets.
-<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonDifferentFeatures/PLvPL?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link"></iframe>
-
-
-
-
-
-
-
-
-
-
+<sub>NOTE: Please ensure that the "Show Sheets" option is selected in the Settings to be able to access the different sheets.</sub>
+<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonDifferentFeatures/PLvPL?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe>
