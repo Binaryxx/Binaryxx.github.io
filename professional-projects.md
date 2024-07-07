@@ -56,7 +56,7 @@ Your browser does not support the video tag.
 
 ### SQL  
 **HackerRank: The Report**  
-Wrote a query to generate a report containing three columns: Name, Grade and Mark.  
+Completed the following HackerRank challenge: The Report - write a query to generate a report containing three columns: Name, Grade and Mark.  
 [https://www.hackerrank.com/challenges/the-report/problem](https://www.hackerrank.com/challenges/full-score/problem)
 <pre>
   <code>
@@ -82,7 +82,7 @@ ORDER BY student_grade DESC,
 </pre>
 
 **HackerRank: Top Competitors**  
-Queried a list of top-scoring hackers.  
+Completed the following HackerRank challenge: Top Competitors - query a list of top-scoring hackers.  
 [https://www.hackerrank.com/challenges/full-score/problem](https://www.hackerrank.com/challenges/full-score/problem)
 
 <pre>
@@ -102,3 +102,24 @@ ORDER BY challenge_count DESC, Hackers.hacker_id ASC
 ;
   </code>
 </pre>
+
+<hr>
+
+### SQL
+**Iris Data Set EDA**  
+Created a matrix scatterplot to provide an overall overview of the iris data set and any relationship between its features and the species it belongs to. A dashboard is also made for each feature to provide a more detailed summary of the distribution of species per feature. The original scatterplots which compared 2 different features and the resulting species is also included for the most detailed view of the data.  
+
+<div class='tableauPlaceholder' id='viz1720316662163' style='position: relative'><noscript><a href='#'><img alt='Main Dash ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mu&#47;MultivariateAnalysisoftheIrisDataSet&#47;MainDash&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MultivariateAnalysisoftheIrisDataSet&#47;MainDash' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mu&#47;MultivariateAnalysisoftheIrisDataSet&#47;MainDash&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1720316662163');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1366px';vizElement.style.height='795px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1366px';vizElement.style.height='795px';} else { vizElement.style.width='100%';vizElement.style.height='3427px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
