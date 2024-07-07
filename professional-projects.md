@@ -4,7 +4,7 @@ title: "Professional Projects"
 permalink: /professional-projects  
 ---
 <head>
-  <link rel="stylesheet" href="stylesheets/accordion.css">
+  <link type="text/css" rel="stylesheet" href="stylesheets/accordion.css">
 </head>
 
 <body>
