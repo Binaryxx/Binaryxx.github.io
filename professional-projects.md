@@ -4,7 +4,11 @@ title: "Professional Projects"
 permalink: /professional-projects  
 ---
 
+<!DOCTYPE html>
+<html lang="en">
 <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Professional Projects</title>title
   <link type="text/css" rel="stylesheet" href="stylesheets/accordion.css">
 </head>
 
@@ -177,3 +181,5 @@ permalink: /professional-projects
     </li>
   </ul>
 </body>
+
+</html>
