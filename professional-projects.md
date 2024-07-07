@@ -142,7 +142,6 @@ Below are projects that relate to VBA, Python, SQL, and Tableau. I categorize th
     <div class="content">
       <p>  
 
-  ### SQL
   **Iris Data Set EDA**  
   Created a matrix scatterplot to provide an overall overview of the iris data set and any relationship between its features and the species it belongs to. A dashboard is also made for each feature to provide a more detailed summary of the distribution of species per feature. The original scatterplots which compared 2 different features and the resulting species is also included for the most detailed view of the data.  
   TIP: View on Tableau Public or Fullscreen at the bottom of the visualization for a compelte view since the dimensions for the embedded links are set for browsing purposes.
