@@ -12,7 +12,7 @@ Below are projects that relate to VBA, Python, SQL, and Tableau. I categorize th
 
 ### VBA  
 To use and inspect the macros, please download the worksheet.
-<iframe width=640 height=480 frameborder="0" scrolling="no" src="https://1drv.ms/x/c/4e1a09861c3af1e4/IQNvECeNljkQQJol8HA8wSNKAZd3te-vzIW1JfrWJ_Ioaqo?wdAllowInteractivity=False&ActiveCell='Form%20Completion%20II'!A1&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe><br><br>
+<iframe allowfullscreen width=640 height=480 frameborder="0" scrolling="no" src="https://1drv.ms/x/c/4e1a09861c3af1e4/IQNvECeNljkQQJol8HA8wSNKAZd3te-vzIW1JfrWJ_Ioaqo?wdAllowInteractivity=False&ActiveCell='Form%20Completion%20II'!A1&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe><br><br>
 
 **Question Auto Fill Macro**  
 Populated and formatted a sheet with a character’s info and stats based on the inputted parameters in the user form.  
@@ -111,20 +111,20 @@ Created a matrix scatterplot to provide an overall overview of the iris data set
 TIP: View on Tableau Public for a fitted desktop view since the dimensions for the embedded links are constrained for browsing purposes.
 
 *Multivariate Analysis of the Iris Data Set*
-<iframe width=640 height=480 src ="https://public.tableau.com/views/MultivariateAnalysisoftheIrisDataSet/MainDash?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe><br>  
+<iframe allowfullscreen width=640 height=480 src ="https://public.tableau.com/views/MultivariateAnalysisoftheIrisDataSet/MainDash?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe><br>  
 
 *Distribution of Iris Species Based on Petal Length*
-<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonPetalLength/PetalLength?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe><br>  
+<iframe allowfullscreen width=640 height=480 src="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonPetalLength/PetalLength?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe><br>  
 
 *Distribution of Iris Species Based on Sepal Length*
-<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonSepalLength/SepalLength?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe><br>  
+<iframe allowfullscreen width=640 height=480 src="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonSepalLength/SepalLength?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe><br>  
 
 *Distribution of Iris Species Based on Sepal Width*
-<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonSepalWidth/SepalWidth?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe><br>  
+<iframe allowfullscreen width=640 height=480 src="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonSepalWidth/SepalWidth?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe><br>  
 
 *Distribution of Iris Species Based on Petal Width*
-<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonPetalWidth/PetalWidth?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe><br>  
+<iframe allowfullscreen width=640 height=480 src="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonPetalWidth/PetalWidth?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe><br>  
 
 *Distribution of Iris Species Based on Different Features*  
 <sub>NOTE: Please ensure that the "Show Sheets" option is selected in the Settings to be able to access the different sheets.</sub>
-<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonDifferentFeatures/PLvPL?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe>
+<iframe allowfullscreen width=640 height=480 src="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonDifferentFeatures/PLvPL?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe>
