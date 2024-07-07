@@ -12,12 +12,12 @@ Below are projects that relate to VBA, Python, SQL, and Tableau. I categorize th
 
 ### VBA  
 To use and inspect the macros, please download the worksheet.
-<iframe width="320" height="240" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/4e1a09861c3af1e4/IQNvECeNljkQQJol8HA8wSNKAZd3te-vzIW1JfrWJ_Ioaqo?wdAllowInteractivity=False&ActiveCell='Form%20Completion%20II'!A1&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe><br><br>
+<iframe width=640 height=480 frameborder="0" scrolling="no" src="https://1drv.ms/x/c/4e1a09861c3af1e4/IQNvECeNljkQQJol8HA8wSNKAZd3te-vzIW1JfrWJ_Ioaqo?wdAllowInteractivity=False&ActiveCell='Form%20Completion%20II'!A1&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe><br><br>
 
 **Question Auto Fill Macro**  
 Populated and formatted a sheet with a character’s info and stats based on the inputted parameters in the user form.  
 
-<video width="320" height="240" controls>
+<video width=640 height=480 controls>
   <source src="professional-projects-assets/auto-fill-demo.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video><br><br>
@@ -25,7 +25,7 @@ Your browser does not support the video tag.
 **Character Creation User Form**  
 Automatically answered common questions, such as name and current date, regardless of its location in the selection.  
 
-<video width="320" height="240" controls>
+<video width=640 height=480 controls>
   <source src="professional-projects-assets/character-creation-demo.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video><br><br>
@@ -109,8 +109,24 @@ ORDER BY challenge_count DESC, Hackers.hacker_id ASC
 **Iris Data Set EDA**  
 Created a matrix scatterplot to provide an overall overview of the iris data set and any relationship between its features and the species it belongs to. A dashboard is also made for each feature to provide a more detailed summary of the distribution of species per feature. The original scatterplots which compared 2 different features and the resulting species is also included for the most detailed view of the data.  
 
+*Multivariate Analysis of the Iris Data Set*
+<iframe width=640 height=480 src ="https://public.tableau.com/views/MultivariateAnalysisoftheIrisDataSet/MainDash?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link"></iframe><br>  
 
-<iframe width="320" height="240" src = "https://public.tableau.com/views/MultivariateAnalysisoftheIrisDataSet/MainDash?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link"></iframe>
+*Distribution of Iris Species Based on Petal Length*
+<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonPetalLength/PetalLength?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link"></iframe><br>  
+
+*Distribution of Iris Species Based on Sepal Length*
+<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonSepalLength/SepalLength?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link"></iframe><br>  
+
+*Distribution of Iris Species Based on Sepal Width*
+<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonSepalWidth/SepalWidth?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link"></iframe><br>  
+
+*Distribution of Iris Species Based on Petal Width*
+<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonPetalWidth/PetalWidth?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link"></iframe><br>  
+
+*Distribution of Iris Species Based on Different Features*  
+NOTE: Please ensure that the "Show Sheets" option is selected in the Settings to be able to access the different sheets.
+<iframe width=640 height=480 src ="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonDifferentFeatures/PLvPL?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link"></iframe>
 
 
 
