@@ -110,7 +110,7 @@ ORDER BY challenge_count DESC, Hackers.hacker_id ASC
 Created a matrix scatterplot to provide an overall overview of the iris data set and any relationship between its features and the species it belongs to. A dashboard is also made for each feature to provide a more detailed summary of the distribution of species per feature. The original scatterplots which compared 2 different features and the resulting species is also included for the most detailed view of the data.  
 
 
-<iframe width="320" height="240" src = "https://public.tableau.com/views/MultivariateAnalysisoftheIrisDataSet/MainDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"></iframe>
+<iframe width="320" height="240" src = "https://public.tableau.com/views/MultivariateAnalysisoftheIrisDataSet/MainDash?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link"></iframe>
 
 
 
