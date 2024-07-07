@@ -7,7 +7,7 @@ permalink: /professional-projects
   <link rel="stylesheet" href="stylesheets/accordion.css">
 </head>
 
-<body markdown="1">
+<body>
   Below are projects that relate to VBA, Python, SQL, and Tableau. I categorize these as professional projects since they use commonly used technical skills in analytics. In addition, I believe that they also teach universal and transferrable skills, such as the ability to learn in an unguided and independent setting and the ability to leverage available resources to complete a task.  
   
   *TIP: Fullscreen/download files for easier readability if necessary. Usually found at the bottom of the media*
@@ -19,7 +19,7 @@ permalink: /professional-projects
       <input type="radio" name="accordion" id="first">
       <label for="first">VBA</label>
       <div class="content">
-        <p>  
+        <p markdown="1">  
           
           To use and inspect the macros, please download the worksheet.
           <iframe allowfullscreen width=800 height=600 frameborder="0" scrolling="no" src="https://1drv.ms/x/c/4e1a09861c3af1e4/IQNvECeNljkQQJol8HA8wSNKAZd3te-vzIW1JfrWJ_Ioaqo?  wdAllowInteractivity=False&ActiveCell='Form%20Completion%20II'!A1&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True">
@@ -50,7 +50,7 @@ permalink: /professional-projects
       <input type="radio" name="accordion" id="second">
       <label for="second">Python</label>
       <div class="content">
-        <p>  
+        <p  markdown="1">  
           
     **Street Fighter 6 Rank Distribution Explorer**  
     * Visualized the distribution of 750k players’ ranks based on web scraped data to provide an accurate benchmark
@@ -82,7 +82,7 @@ permalink: /professional-projects
       <input type="radio" name="accordion" id="third">
       <label for="third">SQL</label>
       <div class="content">
-        <p>  
+        <p  markdown="1">  
           
     **HackerRank: The Report**  
     Completed the following HackerRank challenge: The Report - write a query to generate a report containing three columns: Name, Grade and Mark.  
@@ -142,7 +142,7 @@ permalink: /professional-projects
       <input type="radio" name="accordion" id="fourth">
       <label for="fourth">SQL</label>
       <div class="content">
-        <p>  
+        <p  markdown="1">  
   
     **Iris Data Set EDA**  
     Created a matrix scatterplot to provide an overall overview of the iris data set and any relationship between its features and the species it belongs to. A dashboard is also made for each feature to provide a more detailed summary of the distribution of species per feature. The original scatterplots which compared 2 different features and the resulting species is also included for the most detailed view of the data.  
