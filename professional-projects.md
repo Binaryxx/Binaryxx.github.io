@@ -4,6 +4,8 @@ title: "Professional Projects"
 permalink: /professional-projects  
 ---
 
+<link rel="stylesheet" href="stylesheets/accordion.css">
+
 Below are projects that relate to VBA, Python, SQL, and Tableau. I categorize these as professional projects since they use commonly used technical skills in analytics. In addition, I believe that they also teach universal and transferrable skills, such as the ability to learn in an unguided and independent setting and the ability to leverage available resources to complete a task.  
 
 *TIP: Fullscreen/download files for easier readability if necessary. Usually found at the bottom of the media*
@@ -13,7 +15,7 @@ Below are projects that relate to VBA, Python, SQL, and Tableau. I categorize th
 <ul>
   <li>
     <input type="radio" name="accordion" id="first">
-    <label>VBA</label>
+    <label for="first">VBA</label>
     <div class="content">
       <p>  
         
@@ -40,8 +42,14 @@ Below are projects that relate to VBA, Python, SQL, and Tableau. I categorize th
       </p>
     </div>
   </li>
-  
-  ### Python  
+
+
+  <li>
+    <input type="radio" name="accordion" id="second">
+    <label for="second">Python</label>
+    <div class="content">
+      <p>  
+        
   **Street Fighter 6 Rank Distribution Explorer**  
   * Visualized the distribution of 750k players’ ranks based on web scraped data to provide an accurate benchmark
   * Leveraged multiprocessing for an 80% runtime reduction to allow for the implementation of a player inactivity check
@@ -62,11 +70,18 @@ Below are projects that relate to VBA, Python, SQL, and Tableau. I categorize th
   * Performed all the tasks found in a data science project’s life cycle, from data collection to communication of findings
   
   <embed src="professional-projects-assets/capstone-project.pdf" type="application/pdf" width = 800 height = 600>
-  <br><br>
   
-  <hr>
+      </p>
+    </div>
+  </li>
+
   
-  ### SQL  
+  <li>
+    <input type="radio" name="accordion" id="third">
+    <label for="third">SQL</label>
+    <div class="content">
+      <p>  
+        
   **HackerRank: The Report**  
   Completed the following HackerRank challenge: The Report - write a query to generate a report containing three columns: Name, Grade and Mark.  
   [https://www.hackerrank.com/challenges/the-report/problem](https://www.hackerrank.com/challenges/full-score/problem)
@@ -115,8 +130,18 @@ Below are projects that relate to VBA, Python, SQL, and Tableau. I categorize th
     </code>
   </pre>
   
-  <hr>
-  
+      </p>
+    </div>
+  </li>
+
+
+
+  <li>
+    <input type="radio" name="accordion" id="fourth">
+    <label for="fourth">SQL</label>
+    <div class="content">
+      <p>  
+
   ### SQL
   **Iris Data Set EDA**  
   Created a matrix scatterplot to provide an overall overview of the iris data set and any relationship between its features and the species it belongs to. A dashboard is also made for each feature to provide a more detailed summary of the distribution of species per feature. The original scatterplots which compared 2 different features and the resulting species is also included for the most detailed view of the data.  
@@ -141,8 +166,11 @@ Below are projects that relate to VBA, Python, SQL, and Tableau. I categorize th
   <iframe allowfullscreen width=800 height=600           src="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonPetalWidth/PetalWidth?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop">
   </iframe><br> 
 
-
-</ul>
 *Distribution of Iris Species Based on Different Features*  
 <sub>NOTE: Please ensure that the "Show Sheets" option is selected in the Settings to be able to access the different sheets.</sub>
 <iframe allowfullscreen width=800 height=600 src="https://public.tableau.com/views/DistributionofIrisSpeciesBasedonDifferentFeatures/PLvPL?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe>
+
+      </p>
+    </div>
+  </li>
+</ul>
