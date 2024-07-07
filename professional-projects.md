@@ -31,7 +31,7 @@ permalink: /professional-projects
       
       <br><br>
         
-      <p><h3>Character Creation User Form<h3></p>  
+      <p><h3>Character Creation User Form</h3></p>  
       <p>Automatically answered common questions, such as name and current date, regardless of its location in the selection.</p>  
       <video width=800 height=600 controls>
         <source src="professional-projects-assets/character-creation-demo.mp4" type="video/mp4">
