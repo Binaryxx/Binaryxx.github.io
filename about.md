@@ -11,7 +11,6 @@ Email: binaryxxsune@gmail.com
 
 ### Resume   
   
-**General Resume**  
 <embed src="about-assets/general-resume.pdf" type="application/pdf" width = 640 height = 480><br><br>   
   
 <hr>  
