@@ -4,7 +4,7 @@ title: "Professional Projects"
 permalink: /professional-projects  
 ---
 
-Below are projects that relate to VBA, Python, SQL, and Tableau. I categorize these as professional projects since they use commonly used technical skills in analytics. In addition, I believe that they also teach universal and transferrable skills, such as the ability to learn in an unguided and independent setting and the ability to leverage available resources to complete a task.  
+Below are projects that demonstrate my abilities with VBA, Python, SQL, and Tableau. I categorize these as professional projects since they utilize commonly used technical skills in analytics. In addition, I believe that they also teach universal and transferrable skills, such as the ability to learn in an unguided and independent setting and the ability to leverage available resources to complete a task.  
 
 *TIP: Fullscreen/download files for easier readability if necessary. Usually found at the bottom of the media*
 
@@ -16,7 +16,7 @@ To use and inspect the macros, please download the worksheet.
 </iframe><br><br>
 
 **Question Auto Fill Macro**  
-Populated and formatted a sheet with a character’s info and stats based on the inputted parameters in the user form.  
+* Designed a user form to populate and format a sheet with a character’s info and stats, based on the inputted parameters.  
 
 <video width=800 height=600 controls>
   <source src="professional-projects-assets/auto-fill-demo.mp4" type="video/mp4">
@@ -24,7 +24,7 @@ Your browser does not support the video tag.
 </video><br><br>
 
 **Character Creation User Form**  
-Automatically answered common questions, such as name and current date, regardless of its location in the selection.  
+* Create a macro to automatically answer common questions, such as name and current date, regardless of its location in the selection.  
 
 <video width=800 height=600 controls>
   <source src="professional-projects-assets/character-creation-demo.mp4" type="video/mp4">
@@ -35,7 +35,7 @@ Your browser does not support the video tag.
 
 ### Python  
 **Street Fighter 6 Rank Distribution Explorer**  
-* Visualized the distribution of 750k players’ ranks based on web scraped data to provide an accurate benchmark
+* Visualized the distribution of 750k players’ ranks based on web-scraped data to provide an accurate benchmark
 * Leveraged multiprocessing for an 80% runtime reduction to allow for the implementation of a player inactivity check
 
 <embed src="professional-projects-assets/sf6-slides.pdf" type="application/pdf" width = 800 height = 600>
@@ -60,7 +60,7 @@ Your browser does not support the video tag.
 
 ### SQL  
 **HackerRank: The Report**  
-Completed the following HackerRank challenge: The Report - write a query to generate a report containing three columns: Name, Grade and Mark.  
+Completed the following HackerRank challenge: "The Report - write a query to generate a report containing three columns: Name, Grade and Mark."  
 [https://www.hackerrank.com/challenges/the-report/problem](https://www.hackerrank.com/challenges/full-score/problem)
 <pre>
   <code>
@@ -86,7 +86,7 @@ ORDER BY student_grade DESC,
 </pre>
 
 **HackerRank: Top Competitors**  
-Completed the following HackerRank challenge: Top Competitors - query a list of top-scoring hackers.  
+Completed the following HackerRank challenge: "Top Competitors - query a list of top-scoring hackers."  
 [https://www.hackerrank.com/challenges/full-score/problem](https://www.hackerrank.com/challenges/full-score/problem)
 
 <pre>
@@ -111,9 +111,11 @@ ORDER BY challenge_count DESC, Hackers.hacker_id ASC
 
 ### SQL
 **Iris Data Set EDA**  
-Created a matrix scatterplot to provide an overall overview of the iris data set and any relationship between its features and the species it belongs to. A dashboard is also made for each feature to provide a more detailed summary of the distribution of species per feature. The original scatterplots which compared 2 different features and the resulting species is also included for the most detailed view of the data.  
+* Established a matrix scatterplot to provide an overall overview of the iris data set and any relationship between its features and the species it belongs to.
+* Made separate dashboards for each feature to provide a more detailed summary of the distribution of species per feature.
+- The original scatterplots, which compared 2 different features and the resulting species, are also included for a detailed view of the data.  
   
-*TIP: View on Tableau Public or Fullscreen at the bottom of the visualization for a compelte view since the dimensions for the embedded links are set for browsing purposes.*
+*TIP: View on Tableau Public or Fullscreen at the bottom of the visualization for a complete view since the dimensions for the embedded links are set for browsing purposes.*
 
 __*Multivariate Analysis of the Iris Data Set*__
 <iframe allowfullscreen width=800 height=600 src ="https://public.tableau.com/views/MultivariateAnalysisoftheIrisDataSet/MainDash?:showAppBanner=false&:showVizHome=no&:embed=true&:origin=viz_share_link&:device=desktop"></iframe><br>  
