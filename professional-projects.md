@@ -109,7 +109,7 @@ ORDER BY challenge_count DESC, Hackers.hacker_id ASC
 
 <hr>
 
-### SQL
+### Tableau
 **Iris Data Set EDA**  
 * Established a matrix scatterplot to provide an overall overview of the iris data set and any relationship between its features and the species it belongs to.
 * Made separate dashboards for each feature to provide a more detailed summary of the distribution of species per feature.
