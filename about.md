@@ -18,6 +18,8 @@ Email: binaryxxsune@gmail.com
 ### Bio  
   
 My name is Binaryxx Sune, and I am looking for positions that will allow me to apply my skills and interests in a professional setting.  
+
+I am currently pursuing my master's in Business & Information Systems at NJIT to continue working on my technical skills. In addition, I am currently a cohort of the Network and Systems Admin Program at NPower to expand my knowledge in IT. As part of this program, I am preparing to take my certification for Network+, Azure Fundamentals, and Azure AI. I have already passed my certification exam for Linux+.
   
 I graduated in the spring of 2022 with a double major in business analytics & information technology (BAIT) and finance.   
 While at Rutgers, I exposed myself to various opportunities and experiences. For my first year, I was part of the Army ROTC program. I stayed with the program as a test of resilience for the academic year, exposing myself to early morning physical training, weekly "labs", and the annual three-day field training exercise at Camp Buckner near West Point. My performance in the program garnered the attention of the military science professors, resulting in an offer for a three-year army scholarship.   
