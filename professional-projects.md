@@ -6,6 +6,8 @@ permalink: /professional-projects
 
 Below are projects that demonstrate my abilities with VBA, Python, SQL, and Tableau. I categorize these as professional projects since they utilize commonly used technical skills in analytics. In addition, I believe that they also teach universal and transferrable skills, such as the ability to learn in an unguided and independent setting and the ability to leverage available resources to complete a task.  
 
+View my certifications at <a href='https://www.credly.com/users/binaryxxsune'>https://www.credly.com/users/binaryxxsune</a>
+  
 *TIP: Fullscreen/download files for easier readability if necessary. Usually found at the bottom of the media*
 
 <hr>
